@@ -6,3 +6,20 @@
 .needWhite {
     color: white
 }
+
+.textTitle {
+    padding: 20px;
+    font-size: 50px;
+    color: white
+}
+
+.little {
+    margin-left: 120px;
+    color: white
+}
+
+.littleUp {
+    margin-left: 60px;
+    font-size: 20px;
+    color: white
+}
