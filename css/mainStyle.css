@@ -1,4 +1,4 @@
-#headImage {
+.headImage {
     background: url("./image/head.png") 0 0 no-repeat;
     text-align: center
 }
